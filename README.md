@@ -13,6 +13,7 @@ Agence La Panthère
 Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion.
 
  
+--------------------------------------------------------------------------------------------------
 
 Compte-rendu - réunion de lancement “Amélioration du référencement"
 
